@@ -22,7 +22,7 @@ Once the Curve By Inference Add-In has been added to the ArcMap interface, the s
 7.	The Add-In reports the total number of records that could potentially be arcs, as well as the number of records that can be updated automatically
 
  ![window](https://cloud.githubusercontent.com/assets/8808482/16622659/e8beb992-4368-11e6-88e7-fa58b26f8056.jpg)
-
+ 
 8.	You can sort on the ‘Action’ field to review all the ‘Update’ rows in order
 9.	If you wish to investigate some of the rows to be updated automatically prior to updating them, you can right click on each row to access the various options (flash, select, pan, zoom)
 10.	When clicking on a record, the Add-In presents you with additional details of the related records
@@ -36,7 +36,7 @@ Once the Curve By Inference Add-In has been added to the ArcMap interface, the s
 17.	Additionally, you’ll know what orientation to give the curve (+/-) based on the radius values reported in the related record information section of the Add-In
 
  ![manual](https://cloud.githubusercontent.com/assets/8808482/16622657/e77b74da-4368-11e6-9627-319810f19c36.jpg)
-
+ 
 18.	Once the radius and centre point information is populated, the ‘Action’ drop down will automatically change to a value of “Update”
 19.	You can right click on the record and ‘Apply Change’ to update the row, or you can populate several records and then click the ‘Update Rows’ button
 20.	Continue with this process until all segments or updated, or the only records left reported in the dialog box are false positives and should remain a straight line
