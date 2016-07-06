@@ -57,7 +57,7 @@ This Add-In requires ArcGIS Desktop 10.1 or higher, with a Standard or Advanced 
 The Add-In source code will compile with:
   * ArcGIS 10.1 SDK or higher
   * .Net 3.5 or higher
-  * Visual Studio 20010 or higher
+  * Visual Studio 2010 or higher
 
 ## License
 
