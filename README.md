@@ -1,4 +1,4 @@
-# ParcelFabricCurveByInference
+# Parcel Fabric Curve By Inference
 
 This Add-In will first identify straight lines in the parcel fabric that could potentially be an arc, and second update those arcs. Some of the inferred arcs will be updated automatically, but in some cases, there will not be enough information from the surrounding data to populate the radius and centre point information automatically. In those cases, the parcel fabric operator can manually enter the radius and centre point information via the Add-In in order to update those records. 
 
@@ -10,6 +10,7 @@ Once the Add-In has been compiled and installed, use the following steps to conf
 3.	Under the Categories section, select ‘Parcel Fabric Add-Ins’
 4.	Under the Commands section, drag the ‘Show Curve By Inference’ blue circle onto the Parcel Editor toolbar
 
+![configure](https://cloud.githubusercontent.com/assets/8808482/16622889/ba0b4b14-4369-11e6-9bdf-a69aedd2d3db.jpg)
 
 Once the Curve By Inference Add-In has been added to the ArcMap interface, the steps below provide information on how to use the Add-In:
 
